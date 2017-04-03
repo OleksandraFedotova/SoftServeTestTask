@@ -1,0 +1,30 @@
+@model SoftServeTestTask.Models.Offering
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Offering</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.OfferingDescr)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.OfferingDescr)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Family)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Family.FamilyId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.OfferingId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

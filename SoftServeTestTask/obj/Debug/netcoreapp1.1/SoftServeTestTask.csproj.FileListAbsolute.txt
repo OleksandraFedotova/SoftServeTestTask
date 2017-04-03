@@ -1,0 +1,19 @@
+C:\Users\Дима\Documents\Visual Studio 2017\Projects\SoftServeTestTask\SoftServeTestTask\bin\Debug\netcoreapp1.1\SoftServeTestTask.deps.json
+C:\Users\Дима\Documents\Visual Studio 2017\Projects\SoftServeTestTask\SoftServeTestTask\bin\Debug\netcoreapp1.1\SoftServeTestTask.runtimeconfig.json
+C:\Users\Дима\Documents\Visual Studio 2017\Projects\SoftServeTestTask\SoftServeTestTask\bin\Debug\netcoreapp1.1\SoftServeTestTask.runtimeconfig.dev.json
+C:\Users\Дима\Documents\Visual Studio 2017\Projects\SoftServeTestTask\SoftServeTestTask\bin\Debug\netcoreapp1.1\SoftServeTestTask.dll
+C:\Users\Дима\Documents\Visual Studio 2017\Projects\SoftServeTestTask\SoftServeTestTask\bin\Debug\netcoreapp1.1\SoftServeTestTask.pdb
+C:\Users\Дима\Documents\Visual Studio 2017\Projects\SoftServeTestTask\SoftServeTestTask\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\Дима\Documents\Visual Studio 2017\Projects\SoftServeTestTask\SoftServeTestTask\obj\Debug\netcoreapp1.1\SoftServeTestTask.AssemblyInfo.cs
+C:\Users\Дима\Documents\Visual Studio 2017\Projects\SoftServeTestTask\SoftServeTestTask\obj\Debug\netcoreapp1.1\SoftServeTestTask.dll
+C:\Users\Дима\Documents\Visual Studio 2017\Projects\SoftServeTestTask\SoftServeTestTask\obj\Debug\netcoreapp1.1\SoftServeTestTask.pdb
+E:\Programs\SoftServeTestTask\SoftServeTestTask\bin\Debug\netcoreapp1.1\SoftServeTestTask.deps.json
+E:\Programs\SoftServeTestTask\SoftServeTestTask\bin\Debug\netcoreapp1.1\SoftServeTestTask.runtimeconfig.json
+E:\Programs\SoftServeTestTask\SoftServeTestTask\bin\Debug\netcoreapp1.1\SoftServeTestTask.runtimeconfig.dev.json
+E:\Programs\SoftServeTestTask\SoftServeTestTask\bin\Debug\netcoreapp1.1\SoftServeTestTask.dll
+E:\Programs\SoftServeTestTask\SoftServeTestTask\bin\Debug\netcoreapp1.1\SoftServeTestTask.pdb
+E:\Programs\SoftServeTestTask\SoftServeTestTask\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+E:\Programs\SoftServeTestTask\SoftServeTestTask\obj\Debug\netcoreapp1.1\SoftServeTestTask.AssemblyInfo.cs
+E:\Programs\SoftServeTestTask\SoftServeTestTask\obj\Debug\netcoreapp1.1\SoftServeTestTask.dll
+E:\Programs\SoftServeTestTask\SoftServeTestTask\obj\Debug\netcoreapp1.1\SoftServeTestTask.pdb
+E:\Programs\SoftServeTestTask\SoftServeTestTask\obj\Debug\netcoreapp1.1\SoftServeTestTask.csprojResolveAssemblyReference.cache
